@@ -1,67 +1,65 @@
-[
-    {
-        "Atomic Habits": {
-            "full_name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
-            "author": "James Clear",
-            "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY475_.jpg",
-            "category": "Non-fiction",
-            "goodreads": "https://www.goodreads.com/book/show/40121378-atomic-habits",
-            "amazon_link": "https://amzn.to/3hnppjB",
-            "amazon_india_link": "https://amzn.to/3j6ZfCh"
-        },
-        "Bad Blood": {
-            "full_name": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
-            "author": "John Carreyrou",
-            "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556268702l/37976541.jpg",
-            "category": "Non-fiction",
-            "goodreads": "https://www.goodreads.com/book/show/37976541-bad-blood",
-            "amazon_link": "https://amzn.to/3j7PmnW",
-            "amazon_india_link": "https://amzn.to/32kviYr"
-        },
-        "The Tales of Beedle the Bard": {
-            "full_name": "The Tales of Beedle the Bard",
-            "author": " J.K. Rowling",
-            "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373467575l/3950967.jpg",
-            "category": "Fiction",
-            "goodreads": "https://www.goodreads.com/book/show/3950967-the-tales-of-beedle-the-bard",
-            "amazon_link": "https://amzn.to/34rgnyE",
-            "amazon_india_link": "https://amzn.to/3liaFoP"
-        },
-        "Magnificent Mind at Any Age": {
-            "full_name": "Magnificent Mind at Any Age: Natural Ways to Unleash Your Brain's Maximum Potential",
-            "author": "Daniel G. Amen",
-            "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320432035l/4173154.jpg",
-            "category": "Non-fiction",
-            "goodreads": "https://www.goodreads.com/book/show/4173154-magnificent-mind-at-any-age",
-            "amazon_link": "https://amzn.to/32aXRre",
-            "amazon_india_link": "https://amzn.to/2FP1yLY"
-        },
-        "How Google Works": {
-            "full_name": "How Google Works",
-            "author": "Eric Schmidt, Jonathan Rosenberg",
-            "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422538855l/23158207.jpg",
-            "category": "Non-fiction",
-            "goodreads": "https://www.goodreads.com/book/show/23158207-how-google-works",
-            "amazon_link": "https://amzn.to/2YqsBDw",
-            "amazon_india_link": "https://amzn.to/2YquLD8"
-        },
-        "How to Create a Mind": {
-            "full_name": "How to Create a Mind: The Secret of Human Thought Revealed",
-            "author": "Ray Kurzweil",
-            "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355117137l/13589153.jpg",
-            "category": "Non-fiction",
-            "goodreads": "https://www.goodreads.com/book/show/13589153-how-to-create-a-mind",
-            "amazon_link": "https://amzn.to/2EsUWSR",
-            "amazon_india_link": "https://amzn.to/2Yp9VEi"
-        },
-        "21 Lessons for the 21st Century": {
-            "full_name": "21 Lessons for the 21st Century",
-            "author": "Yuval Noah Harari",
-            "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564577305l/38820046._SY475_.jpg",
-            "category": "Non-fiction",
-            "goodreads": "https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century",
-            "amazon_link": "https://amzn.to/2Qh8eUX",
-            "amazon_india_link": "https://amzn.to/2ElOJYW"
-        }
-    }
-]
+{
+	"Atomic Habits": {
+		"full_name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+		"author": "James Clear",
+		"cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY475_.jpg",
+		"category": "Non-fiction",
+		"goodreads": "https://www.goodreads.com/book/show/40121378-atomic-habits",
+		"amazon_link": "https://amzn.to/3hnppjB",
+		"amazon_india_link": "https://amzn.to/3j6ZfCh"
+	},
+	"Bad Blood": {
+		"full_name": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+		"author": "John Carreyrou",
+		"cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556268702l/37976541.jpg",
+		"category": "Non-fiction",
+		"goodreads": "https://www.goodreads.com/book/show/37976541-bad-blood",
+		"amazon_link": "https://amzn.to/3j7PmnW",
+		"amazon_india_link": "https://amzn.to/32kviYr"
+	},
+	"The Tales of Beedle the Bard": {
+		"full_name": "The Tales of Beedle the Bard",
+		"author": " J.K. Rowling",
+		"cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373467575l/3950967.jpg",
+		"category": "Fiction",
+		"goodreads": "https://www.goodreads.com/book/show/3950967-the-tales-of-beedle-the-bard",
+		"amazon_link": "https://amzn.to/34rgnyE",
+		"amazon_india_link": "https://amzn.to/3liaFoP"
+	},
+	"Magnificent Mind at Any Age": {
+		"full_name": "Magnificent Mind at Any Age: Natural Ways to Unleash Your Brain's Maximum Potential",
+		"author": "Daniel G. Amen",
+		"cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320432035l/4173154.jpg",
+		"category": "Non-fiction",
+		"goodreads": "https://www.goodreads.com/book/show/4173154-magnificent-mind-at-any-age",
+		"amazon_link": "https://amzn.to/32aXRre",
+		"amazon_india_link": "https://amzn.to/2FP1yLY"
+	},
+	"How Google Works": {
+		"full_name": "How Google Works",
+		"author": "Eric Schmidt, Jonathan Rosenberg",
+		"cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422538855l/23158207.jpg",
+		"category": "Non-fiction",
+		"goodreads": "https://www.goodreads.com/book/show/23158207-how-google-works",
+		"amazon_link": "https://amzn.to/2YqsBDw",
+		"amazon_india_link": "https://amzn.to/2YquLD8"
+	},
+	"How to Create a Mind": {
+		"full_name": "How to Create a Mind: The Secret of Human Thought Revealed",
+		"author": "Ray Kurzweil",
+		"cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355117137l/13589153.jpg",
+		"category": "Non-fiction",
+		"goodreads": "https://www.goodreads.com/book/show/13589153-how-to-create-a-mind",
+		"amazon_link": "https://amzn.to/2EsUWSR",
+		"amazon_india_link": "https://amzn.to/2Yp9VEi"
+	},
+	"21 Lessons for the 21st Century": {
+		"full_name": "21 Lessons for the 21st Century",
+		"author": "Yuval Noah Harari",
+		"cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564577305l/38820046._SY475_.jpg",
+		"category": "Non-fiction",
+		"goodreads": "https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century",
+		"amazon_link": "https://amzn.to/2Qh8eUX",
+		"amazon_india_link": "https://amzn.to/2ElOJYW"
+	}
+}
